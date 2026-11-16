@@ -1,0 +1,13 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "solve": "npx tsx solution/main.ts",
+    "test": "tsx --test solution/tests/**/*.spec.ts"
+  }
+}
