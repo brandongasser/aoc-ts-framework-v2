@@ -31,7 +31,8 @@
     "test:9": "npm run test -w day-9",
     "test:10": "npm run test -w day-10",
     "test:11": "npm run test -w day-11",
-    "test:12": "npm run test -w day-12"
+    "test:12": "npm run test -w day-12",
+    "test:utils": "npm run test -w utils"
   },
   "workspaces": [
     "day-1",
@@ -45,7 +46,8 @@
     "day-9",
     "day-10",
     "day-11",
-    "day-12"
+    "day-12",
+    "utils"
   ],
   "devDependencies": {
     "@types/node": "^26.6.6",
